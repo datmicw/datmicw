@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nguyen Tan Dat</h1>
 <h3 align="center">C# Developer from Viet Nam 🇻🇳</h3>
 
-- 🌱 I’m currently learning **C#/.NET**
+- 🌱 **C#/.NET**
 
 - 📫 How to reach me **dat.micf@gmail.com**
 
