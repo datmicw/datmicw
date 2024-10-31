@@ -1,6 +1,3 @@
-
-<<<<<<< HEAD
-
 <h1 align="center">Hi, I'm Nguyen Tan Dat</h1>
 <h3 align="center">C# Developer from Viet Nam</h3>
 
