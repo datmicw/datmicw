@@ -1,13 +1,9 @@
-<<<<<<< HEAD
-
 <h1 align="center">Hi, I'm Nguyen Tan Dat</h1>
 <h3 align="center">C# Developer from Viet Nam</h3>
-
 
 - 🌱 I’m currently learning **C#/.NET**
 
 - 📫 How to reach me **dat.micf@gmail.com**
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=datmicw&label=Profile%20views&color=0e75b6&style=flat" alt="datmicw" /> </p>
 
