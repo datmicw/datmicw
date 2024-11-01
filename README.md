@@ -31,14 +31,17 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo" />
   </div>
 </div>
-
-<div align="left">
-  <h3>📊 Activities:</h3>
-  <table style="width:100%;">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datmicw&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20Languages%20Used" alt="datmicw" width="100%"/>
-        <img src="https://github-readme-stats.vercel.app/api?username=datmicw&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Github%20Activities" alt="datmicw" width="100%"/>
-      </td>
-      <td align="center">
-        <img src="https://cdn.dribbble.com/users/1059583
+# 📊 Activities:
+<table style="width:100%;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datmicw&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20Languages%20Used" alt="datmicw" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=datmicw&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Github%20Activities" alt="datmicw" width="100%"/>
+    </td>
+    <td>
+      <p align="center"> 
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+      </p>
+    </td>
+  </tr>
+</table>
