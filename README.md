@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Nguyen Tan Dat</h1>
-<h3 align="center">C# Developer from Viet Nam</h3>
+<h3 align="center">C# Developer from Vietnam</h3>
 
 - 🌱 **C#/.NET**
 
-- 📫 How to reach me **dat.micf@gmail.com**
+- 📫 How to reach me: **dat.micf@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=datmicw&label=Profile%20views&color=0e75b6&style=flat" alt="datmicw" />
 
@@ -38,8 +38,8 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datmicw&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="datmicw" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=datmicw&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="datmicw" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datmicw&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20Languages%20Used" alt="datmicw" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=datmicw&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Github%20Activities" alt="datmicw" width="100%"/>
     </td>
     <td>
       <p align="center"> 
