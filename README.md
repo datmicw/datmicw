@@ -1,13 +1,11 @@
-<h1 align="center">HELLO WORLD 👋  </h1>
+## Hello World 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=datmicw&label=Profile%20views&color=0e75b6&style=flat" alt="datmicw" />
-
+  
 ## 🌐 Socials:
-
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/User.NguyenTanDat) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_dat.f) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dat-nguyen-tan-88b15a332) 
 [![Github](https://img.shields.io/github/followers/datmicw?label=Follow&style=social)](https://github.com/datmicw)
 
 ## ⚙️ Tech Stack:
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
   <img width="15" />
@@ -25,7 +23,6 @@
 </div>
 
 # 📊 Activities:
-
 <table style="width:100%;">
   <tr>
     <td>
