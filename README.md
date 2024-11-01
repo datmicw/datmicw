@@ -14,7 +14,8 @@
 </div>
 
 <div align="left">
-  <h3>⚙️ Tech Stack:</h3>
+  
+## ⚙️ Tech Stack:
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo" />
     <img width="15" />
@@ -31,6 +32,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo" />
   </div>
 </div>
+
 ## 📊 Activities:
 <table style="width:100%;">
   <tr>
