@@ -2,15 +2,16 @@
 <h3 align="center">C# Developer from Vietnam</h3>
 
 - 🌱 **C#/.NET**
-
 - 📫 How to reach me: **dat.micf@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=datmicw&label=Profile%20views&color=0e75b6&style=flat" alt="datmicw" />
 
 ## 🌐 Socials:
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/User.NguyenTanDat) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_dat.f) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dat-nguyen-tan-88b15a332) 
 
 # 💻 Tech Stack:
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -28,7 +29,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
 </div>
+
 # 📊 Activities:
+
 <table style="width:100%;">
   <tr>
     <td>
