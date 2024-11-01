@@ -1,12 +1,10 @@
-# Nguyen Tan Dat
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdatmicw%2Fdatmicw&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-
+<h1 align="center">HELLO WORLD </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=datmicw&label=Profile%20views&color=0e75b6&style=flat" alt="datmicw" />
 
 ## 🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/User.NguyenTanDat) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_dat.f) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dat-nguyen-tan-88b15a332) 
+[![Github](https://img.shields.io/github/followers/datmicw?label=Follow&style=social)](https://github.com/datmicw)
 
 # 💻 Tech Stack:
 
