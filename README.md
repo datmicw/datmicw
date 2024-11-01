@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/1u01IRKm3cKUH4GU1U/giphy.gif" alt="coding-gif" width="200"/>
-</p>
 <h1 align="center">Hi, I'm Nguyen Tan Dat</h1>
 <h3 align="center">C# Developer from Vietnam</h3>
 
