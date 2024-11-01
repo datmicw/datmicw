@@ -1,8 +1,6 @@
-<h1 align="center">Hi, I'm Nguyen Tan Dat</h1>
-<h3 align="center">C# Developer from Vietnam</h3>
+# Nguyen Tan Dat
 
-- 🌱 **C#/.NET**
-- 📫 How to reach me: **dat.micf@gmail.com**
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdatmicw%2Fdatmicw&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=datmicw&label=Profile%20views&color=0e75b6&style=flat" alt="datmicw" />
 
